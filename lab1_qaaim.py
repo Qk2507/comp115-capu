@@ -69,7 +69,7 @@ Hi,
 I am {name}. I like {hobby}.
 
 My experience level in coding is {coding_experience}, at least I think.
-I would love to learning coding {6} hours per week.
+I would love to learning coding {weekly_hours_learn_coding} hours per week.
 Here is my COMP115 repo at GitHub: {my_github_comp115_repo}.
 
 Hope we will have fun in learning Python together this term! 
